@@ -1,14 +1,11 @@
 {
   "name": "f-teste-exemplo",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "authors": [
     "'Celestino <'celestinoramalho@gmail.com'>"
   ],
   "description": "Componente de exemplo",
   "main": "fTesteExemplo.js",
-  "moduleType": [
-    "globals"
-  ],
   "license": "MIT",
   "ignore": [
     "**/.*",
